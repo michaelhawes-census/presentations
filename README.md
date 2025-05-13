@@ -13,7 +13,10 @@ Go to: [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2
 ### 2022
 
 ### 2021
-
+- Hawes, M. B. *Differential Privacy 101* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, May 4, 2021. \([recording](https://www.census.gov/data/academy/webinars/2021/disclosure-avoidance-series/differential-privacy-101.html), [slides](https://www2.census.gov/about/training-workshops/2021/2021-05-04-das-presentation.pdf)\)
+- Hawes, M. B. *Simulated Reconstruction-abetted Re-identification Attack on the 2010 Census* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, May 7, 2021. \([recording](https://www.census.gov/data/academy/webinars/2021/disclosure-avoidance-series/simulated-reconstruction-abetted-re-identification-attack-on-the-2010-census.html), [slides](https://www2.census.gov/about/training-workshops/2021/2021-05-07-das-presentation.pdf)\)
+- Hawes, M. B. *Differential Privacy 201 and the TopDown Algorithm* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, May 13, 2021. \([recording](https://www.census.gov/data/academy/webinars/2021/disclosure-avoidance-series/differential-privacy-201-and-the-topdown-algorithm.html), [slides](https://www2.census.gov/about/training-workshops/2021/2021-05-13-das-presentation.pdf)\)
+- Hawes, M.B. and Rodriguez, R. *Determining the Privacy-loss Budget: Research into Alternatives to Differential Privacy* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, June 4, 2021. \([recording](), [slides](https://www2.census.gov/about/training-workshops/2021/2021-06-04-das-presentation.pdf)\)
 ### 2020
 - Hawes, M. B. *Differential Privacy and the 2020 Decennial Census* (Webinar), American Statistical Association, January 28, 2020. [https://github.com/michaelhawes-census/presentations/blob/main/2020-01-28-ASA-Privacy-Day.pdf](https://github.com/michaelhawes-census/presentations/blob/main/2020-01-28-ASA-Privacy-Day.pdf)
 
