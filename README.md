@@ -1,5 +1,5 @@
 # README
-List of U.S. Census Bureau public presentations by [date](##presentations-by-date), by [topic](##presentations-by-topic), or by [author](##presentations-by-author).
+List of U.S. Census Bureau public presentations by [date](#presentations-by-date), by [topic](#presentations-by-topic), or by [author](#presentations-by-author).
 
 ## Presentations by Date
 ### 2025
