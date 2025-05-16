@@ -1,5 +1,5 @@
 # README
-List of U.S. Census Bureau public presentations by [date](#presentations-by-date), by [topic](#presentations-by-topic), or by [author](#presentations-by-author).
+List of selected U.S. Census Bureau public presentations by [date](#presentations-by-date), by [topic](#presentations-by-topic), or by [author](#presentations-by-author).
 
 ***
 
@@ -13,11 +13,11 @@ Go to: [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2
 ### 2023
 
 ### 2022
-- Hawes, M. B. *Reconstruction and Re-identification of the Demographic and Housing Characteristics File (DHC)* (Presentation), U.S. Census Bureau, September 29, 2022. \([slides](), [recording](https://www.youtube.com/watch?v=eihDGfxy2cc)\)
+- Hawes, M. B. *Reconstruction and Re-identification of the Demographic and Housing Characteristics File (DHC)* (Presentation), U.S. Census Bureau, September 29, 2022. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2022-09-29-recon-DHC.pdf), [recording](https://www.youtube.com/watch?v=eihDGfxy2cc)\)
 
-- Hawes, M. B. *Setting the Parameters of the TopDown Algorithm* (Presentation), Committee on National Statistics, "2020 Census Data Products: Workshop on the Demographic and Housing Characteristics Files", National Academies of Science, Engineering, and Medicine, June 21, 2022. \([slides](), [recording](https://www.nationalacademies.org/event/06-21-2022/2020-census-data-products-workshop-on-the-demographic-and-housing-characteristics-files)\)
+- Hawes, M. B. *Setting the Parameters of the TopDown Algorithm* (Presentation), Committee on National Statistics, "2020 Census Data Products: Workshop on the Demographic and Housing Characteristics Files", National Academies of Science, Engineering, and Medicine, June 21, 2022. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2022-06-21-parameters.pdf), [recording](https://www.nationalacademies.org/event/06-21-2022/2020-census-data-products-workshop-on-the-demographic-and-housing-characteristics-files)\)
 
-- Hawes, M. B. *Reconstruction and Re-identification of the Demographic and Housing Characteristics File (DHC)* (Presentation), U.S. Census Bureau, March 17, 2022. \([slides](), [audio recording](https://broadcast.census.gov/comm/census-scientific-advisory-committee/meeting-videos/2022/03-17-csac-meeting.wav)\)
+- Hawes, M. B. *Reconstruction and Re-identification of the Demographic and Housing Characteristics File (DHC)* (Presentation), U.S. Census Bureau, March 17, 2022. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2022-03-17-recon-DHC.pdf), [audio recording](https://broadcast.census.gov/comm/census-scientific-advisory-committee/meeting-videos/2022/03-17-csac-meeting.wav)\)
 
 
 ### 2021
