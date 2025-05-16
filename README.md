@@ -13,12 +13,16 @@ Go to: [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2
 ### 2022
 
 ### 2021
-- Hawes, M. B. *Differential Privacy 101* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, May 4, 2021. \([recording](https://www.census.gov/data/academy/webinars/2021/disclosure-avoidance-series/differential-privacy-101.html), [slides](https://www2.census.gov/about/training-workshops/2021/2021-05-04-das-presentation.pdf)\)
-- Hawes, M. B. *Simulated Reconstruction-abetted Re-identification Attack on the 2010 Census* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, May 7, 2021. \([recording](https://www.census.gov/data/academy/webinars/2021/disclosure-avoidance-series/simulated-reconstruction-abetted-re-identification-attack-on-the-2010-census.html), [slides](https://www2.census.gov/about/training-workshops/2021/2021-05-07-das-presentation.pdf)\)
-- Hawes, M. B. *Differential Privacy 201 and the TopDown Algorithm* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, May 13, 2021. \([recording](https://www.census.gov/data/academy/webinars/2021/disclosure-avoidance-series/differential-privacy-201-and-the-topdown-algorithm.html), [slides](https://www2.census.gov/about/training-workshops/2021/2021-05-13-das-presentation.pdf)\)
-- Hawes, M.B. and Rodriguez, R. *Determining the Privacy-loss Budget: Research into Alternatives to Differential Privacy* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, June 4, 2021. \([recording](), [slides](https://www2.census.gov/about/training-workshops/2021/2021-06-04-das-presentation.pdf)\)
+- Hawes, M. B. *Differential Privacy 101* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, May 4, 2021. \([recording](https://www.census.gov/data/academy/webinars/2021/disclosure-avoidance-series/differential-privacy-101.html), [slides]()\)
+- Hawes, M. B. *Simulated Reconstruction-abetted Re-identification Attack on the 2010 Census* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, May 7, 2021. \([recording](https://www.census.gov/data/academy/webinars/2021/disclosure-avoidance-series/simulated-reconstruction-abetted-re-identification-attack-on-the-2010-census.html), [slides]()\)
+- Hawes, M. B. *Differential Privacy 201 and the TopDown Algorithm* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, May 13, 2021. \([recording](https://www.census.gov/data/academy/webinars/2021/disclosure-avoidance-series/differential-privacy-201-and-the-topdown-algorithm.html), [slides]()\)
+- Hawes, M.B. and Rodríguez, R. *Determining the Privacy-loss Budget: Research into Alternatives to Differential Privacy* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, June 4, 2021. \([recording](https://www.census.gov/data/academy/webinars/2021/disclosure-avoidance-series/research-into-alternatives-to-differential-privacy.html), [slides]()\)
+- Hawes, M.B. and Spence, M. *Production Settings and DAS Accuracy Metrics for the P.L. 94-171 Redistricting Data Summary File* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, July 1, 2021. \([recording](https://www.census.gov/data/academy/webinars/2021/disclosure-avoidance-series/2020-disclosure-avoidance-system-update.html), [slides]()\)
+- Hawes, M. B. *Analysis of Production Settings for Redistricting and Voting Rights Act Use Cases* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, August 10, 2021. \([recording](), [slides]()\)
+  
 ### 2020
 - Hawes, M. B. *Differential Privacy and the 2020 Decennial Census* (Webinar), American Statistical Association, January 28, 2020. [https://github.com/michaelhawes-census/presentations/blob/main/2020-01-28-ASA-Privacy-Day.pdf](https://github.com/michaelhawes-census/presentations/blob/main/2020-01-28-ASA-Privacy-Day.pdf)
+- Hawes, M. B. *Census TopDown Algorithm (TDA): A Primer on its Structure, Properties, and Parameters* (Presentation), U.S. Census Bureau, June 10, 2020. []()
 
 ### 2019
 - Hawes, M. B. *Official Statistics at the Crossroads: Data Quality and Access in an Era of Heightened Privacy Risk* (Presentation), Joint Statistical Meetings, Denver, CO. July 30, 2019. [https://github.com/michaelhawes-census/presentations/blob/main/2019-07-30-JSM-Crossroads.pdf](https://github.com/michaelhawes-census/presentations/blob/main/2019-07-30-JSM-Crossroads.pdf)
@@ -45,6 +49,8 @@ Go to: [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2
 - [Hawes, Michael Brewster](#hawes-michael-brewster)
 - [Keller, Sallie Ann](#keller-sallie-ann)
 - [Molfino, Emily](#molfino-emily)
+- [Rodríguez, Rolando](#rodríguez-rolando)
+- [Spence, Matthew](#spence-matthew)
 
 
 ### Hawes, Michael Brewster \([@michaelhawes-census](https://github.com/michaelhawes-census)\)
@@ -54,5 +60,8 @@ Go to: [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2
 
 ### Keller, Sallie Ann
 
-
 ### Molfino, Emily
+
+### Rodríguez, Rolando
+
+### Spence, Matthew
