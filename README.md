@@ -7,7 +7,7 @@ Selected U.S. Census Bureau public presentations by [date](#presentations-by-dat
 Go to: [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019)
 
 ### 2025
-- Hawes, M. B. *Privacy, Confidentiality, and Statistical Purposes*, Administrative Research Data Conference (ADRCon), June 25, 2025. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2025/2025-06-25-ADRCon.pdf)\)
+- Hawes, M. B. *Privacy, Confidentiality, and Statistical Purposes*, Administrative Data Research Conference (ADRCon), June 25, 2025. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2025/2025-06-25-ADRCon.pdf)\)
 - Keller, S. A., Hawes, M. B., Dorius, C., and Rogers, L. *The 2030 Census​ Disclosure Avoidance Research Program* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, June 23, 2025. \([slides]()\)
 - Hawes, M. B. and Rogers, L. *A Principled Framework for Disclosure Avoidance* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, January 28, 2025. \([slides](https://www2.census.gov/about/training-workshops/2025/2025-01-28-principled-framework-for-disclosure-avoidance-presentation.pdf), [Recording](https://youtu.be/TGIm3ClfIfE)\)
 
@@ -116,7 +116,7 @@ Go to: [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2
 
 ### Official Statistics
 
-- Hawes, M. B. *Privacy, Confidentiality, and Statistical Purposes*, Administrative Research Data Conference (ADRCon), June 25, 2025. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2025/2025-06-25-ADRCon.pdf)\)
+- Hawes, M. B. *Privacy, Confidentiality, and Statistical Purposes*, Administrative Data Research Conference (ADRCon), June 25, 2025. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2025/2025-06-25-ADRCon.pdf)\)
 - Hawes, M. B. and Rogers, L. *A Principled Framework for Disclosure Avoidance* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, January 28, 2025. \([slides](https://www2.census.gov/about/training-workshops/2025/2025-01-28-principled-framework-for-disclosure-avoidance-presentation.pdf), [Recording](https://youtu.be/TGIm3ClfIfE)\)
 - Hawes, M. *The Future of Interagency Coordination on Data Protection* (Presentation), Federal Committee on Statistical Methodology Policy and Research Conference, October 22, 2024. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2024/2024-10-22-DPT.pdf)\)
 - Molfino, E. *Open Census Initiative* (Presentation), Census Scientific Advisory Committee, September 20, 2024. \([slides](https://www2.census.gov/about/partners/cac/sac/meetings/2024-09/presentation-open-census-initiative.pdf)\)
@@ -140,7 +140,7 @@ Go to: [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2
 
 
 ### Hawes, Michael Brewster \([@michaelhawes-census](https://github.com/michaelhawes-census)\)
-- Hawes, M. B. *Privacy, Confidentiality, and Statistical Purposes*, Administrative Research Data Conference (ADRCon), June 25, 2025. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2025/2025-06-25-ADRCon.pdf)\)
+- Hawes, M. B. *Privacy, Confidentiality, and Statistical Purposes*, Administrative Data Research Conference (ADRCon), June 25, 2025. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2025/2025-06-25-ADRCon.pdf)\)
 - Keller, S. A., Hawes, M. B., Dorius, C., and Rogers, L. *The 2030 Census​ Disclosure Avoidance Research Program* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, June 23, 2025. \([slides]()\)
 - Hawes, M. B. and Rogers, L. *A Principled Framework for Disclosure Avoidance* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, January 28, 2025. \([slides](https://www2.census.gov/about/training-workshops/2025/2025-01-28-principled-framework-for-disclosure-avoidance-presentation.pdf), [Recording](https://youtu.be/TGIm3ClfIfE)\)
 - Hawes, M. *The Future of Interagency Coordination on Data Protection* (Presentation), Federal Committee on Statistical Methodology Policy and Research Conference, October 22, 2024. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2024/2024-10-22-DPT.pdf)\)
