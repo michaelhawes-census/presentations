@@ -7,6 +7,8 @@ Selected U.S. Census Bureau public presentations by [date](#presentations-by-dat
 Go to: [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019)
 
 ### 2025
+- Hawes, M. B. *Privacy, Confidentiality, and Statistical Purposes*, Administrative Research Data Conference (ADRCon), June 25, 2025. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2025/2025-06-25-ADRCon.pdf)\)
+- Keller, S. A., Hawes, M. B., Dorius, C., and Rogers, L. *The 2030 Census​ Disclosure Avoidance Research Program* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, June 23, 2025. \([slides]()\)
 - Hawes, M. B. and Rogers, L. *A Principled Framework for Disclosure Avoidance* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, January 28, 2025. \([slides](https://www2.census.gov/about/training-workshops/2025/2025-01-28-principled-framework-for-disclosure-avoidance-presentation.pdf), [Recording](https://youtu.be/TGIm3ClfIfE)\)
 
 ### 2024
@@ -54,6 +56,7 @@ Go to: [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2
 
 ## Presentations by Topic
 - [2020 Census Disclosure Avoidance System](#2020-census-disclosure-avoidance-system)
+- [2030 Census Disclosure Avoidance System](#2030-census-disclosure-avoidance-system)
 - [Artificial Intelligence](#artificial-intelligence)
 - [Differential Privacy](#differential-privacy)
 - [Official Statistics](#official-statistics)
@@ -61,8 +64,6 @@ Go to: [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2
 
 
 ### 2020 Census Disclosure Avoidance System
-
-
 - Hawes, M. *FCSM *2020 Census Supplemental Demographic and Housing Characteristics File* (Presentation), Federal Committee on Statistical Methodology Policy and Research Conference, October 22, 2024. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2024/2024-10-22-S-DHC.pdf)\)
 - Hawes, M. B. *Stakeholder Participation and Engagement in the Design and Tuning of the 2020 Census Disclosure Avoidance System* (Presentation), White House Office of Science and Technology Policy, Workshop on "Open Government in Action: Emerging Practices in Participatory Algorithm Design," July 29, 2024. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2024/2024-07-29-OSTP-Participatory-Algorithms.pdf)\)
 - Hawes, M. B. *Data Protection and Official Statistics: Lessons Learned from the 2020 Census and a Proposed Framework for Discussing and Evaluating Disclosure Avoidance Systems* (Lecture), Harvard University, July 22, 2024. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2024/2024-07-22-Harvard.pdf)\)
@@ -82,6 +83,10 @@ Go to: [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2
 - Hawes, M. B. *Census TopDown Algorithm (TDA): A Primer on its Structure, Properties, and Parameters* (Presentation), U.S. Census Bureau, June 10, 2020. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2020/2020-06-10-TDA.pdf)\)
 -  Hawes, M. B. *Differential Privacy and the 2020 Decennial Census* (Webinar), American Statistical Association, January 28, 2020. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2020/2020-01-28-ASA-Privacy-Day.pdf)\)
 
+### 2030 Census Disclosure Avoidance System
+- Keller, S. A., Hawes, M. B., Dorius, C., and Rogers, L. *The 2030 Census​ Disclosure Avoidance Research Program* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, June 23, 2025. \([slides]()\)
+- Hawes, M. B. and Rogers, L. *A Principled Framework for Disclosure Avoidance* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, January 28, 2025. \([slides](https://www2.census.gov/about/training-workshops/2025/2025-01-28-principled-framework-for-disclosure-avoidance-presentation.pdf), [Recording](https://youtu.be/TGIm3ClfIfE)\)
+
 ### Artificial Intelligence
 
 - Keller, S. A., Haase, K. and Hawes, M. B.  *AI and Official Statistics: Responsibly Leveraging Large Language Models in Support of Open Data* (Presentation), Joint Statistical Meetings, August 8, 2024. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2024/2024-08-08-JSM-AI.pdf)\)
@@ -90,6 +95,7 @@ Go to: [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2
 
 ### Differential Privacy
 
+- Keller, S. A., Hawes, M. B., Dorius, C., and Rogers, L. *The 2030 Census​ Disclosure Avoidance Research Program* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, June 23, 2025. \([slides]()\)
 - Hawes, M. *FCSM *2020 Census Supplemental Demographic and Housing Characteristics File* (Presentation), Federal Committee on Statistical Methodology Policy and Research Conference, October 22, 2024. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2024/2024-10-22-S-DHC.pdf)\)
 - Hawes, M. B. *Stakeholder Participation and Engagement in the Design and Tuning of the 2020 Census Disclosure Avoidance System* (Presentation), White House Office of Science and Technology Policy, Workshop on "Open Government in Action: Emerging Practices in Participatory Algorithm Design," July 29, 2024. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2024/2024-07-29-OSTP-Participatory-Algorithms.pdf)\)
 - Hawes, M. B. *Data Protection and Official Statistics: Lessons Learned from the 2020 Census and a Proposed Framework for Discussing and Evaluating Disclosure Avoidance Systems* (Lecture), Harvard University, July 22, 2024. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2024/2024-07-22-Harvard.pdf)\)
@@ -110,6 +116,7 @@ Go to: [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2
 
 ### Official Statistics
 
+- Hawes, M. B. *Privacy, Confidentiality, and Statistical Purposes*, Administrative Research Data Conference (ADRCon), June 25, 2025. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2025/2025-06-25-ADRCon.pdf)\)
 - Hawes, M. B. and Rogers, L. *A Principled Framework for Disclosure Avoidance* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, January 28, 2025. \([slides](https://www2.census.gov/about/training-workshops/2025/2025-01-28-principled-framework-for-disclosure-avoidance-presentation.pdf), [Recording](https://youtu.be/TGIm3ClfIfE)\)
 - Hawes, M. *The Future of Interagency Coordination on Data Protection* (Presentation), Federal Committee on Statistical Methodology Policy and Research Conference, October 22, 2024. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2024/2024-10-22-DPT.pdf)\)
 - Molfino, E. *Open Census Initiative* (Presentation), Census Scientific Advisory Committee, September 20, 2024. \([slides](https://www2.census.gov/about/partners/cac/sac/meetings/2024-09/presentation-open-census-initiative.pdf)\)
@@ -133,6 +140,8 @@ Go to: [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2
 
 
 ### Hawes, Michael Brewster \([@michaelhawes-census](https://github.com/michaelhawes-census)\)
+- Hawes, M. B. *Privacy, Confidentiality, and Statistical Purposes*, Administrative Research Data Conference (ADRCon), June 25, 2025. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2025/2025-06-25-ADRCon.pdf)\)
+- Keller, S. A., Hawes, M. B., Dorius, C., and Rogers, L. *The 2030 Census​ Disclosure Avoidance Research Program* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, June 23, 2025. \([slides]()\)
 - Hawes, M. B. and Rogers, L. *A Principled Framework for Disclosure Avoidance* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, January 28, 2025. \([slides](https://www2.census.gov/about/training-workshops/2025/2025-01-28-principled-framework-for-disclosure-avoidance-presentation.pdf), [Recording](https://youtu.be/TGIm3ClfIfE)\)
 - Hawes, M. *The Future of Interagency Coordination on Data Protection* (Presentation), Federal Committee on Statistical Methodology Policy and Research Conference, October 22, 2024. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2024/2024-10-22-DPT.pdf)\)
 - Hawes, M. *FCSM *2020 Census Supplemental Demographic and Housing Characteristics File* (Presentation), Federal Committee on Statistical Methodology Policy and Research Conference, October 22, 2024. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2024/2024-10-22-S-DHC.pdf)\)
@@ -164,6 +173,7 @@ Go to: [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2
   
 
 ### Keller, Sallie Ann
+- Keller, S. A., Hawes, M. B., Dorius, C., and Rogers, L. *The 2030 Census​ Disclosure Avoidance Research Program* (Webinar), Disclosure Avoidance Webinar Series, U.S. Census Bureau, June 23, 2025. \([slides]()\)
 - Keller, S. A., Haase, K. and Hawes, M. B.  *AI and Official Statistics: Responsibly Leveraging Large Language Models in Support of Open Data* (Presentation), Joint Statistical Meetings, August 8, 2024. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2024/2024-08-08-JSM-AI.pdf)\)
 - Keller, S. A. and Hawes, M. B. *Deciphering and Interpreting "For Statistical Purposes"* (Presentation), Federal Committee on Statistical Methodology Research and Policy Conference, October 24, 2023. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2023/2023-10-24-FCSM-Statistical-Purposes.pdf)\)
 - Hawes, M. B., Ashmead, R., Hollingsworth, C. D., Jarosz, B., Krause, A., Ramirez, R., Spence, M., and Keller S. A. *Assessing Fitness-for-Use of Differential Privacy-Adjusted Census Data* (Workshop), Population Association of America, April 12, 2023. \([slides](https://github.com/michaelhawes-census/presentations/blob/main/2023/2023-04-12-PAA.pdf)\)
