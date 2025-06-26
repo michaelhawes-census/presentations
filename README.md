@@ -1,6 +1,4 @@
-# README
-
-Selected public presentations by [date](#presentations-by-date) or by [topic](#presentations-by-topic).
+# Selected public presentations by [date](#presentations-by-date) or by [topic](#presentations-by-topic).
 
 **Michael B. Hawes**  
 Senior Statistician for Scientific Communication  
