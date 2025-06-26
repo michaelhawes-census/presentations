@@ -1,5 +1,12 @@
 # README
-Selected U.S. Census Bureau public presentations by [date](#presentations-by-date) or by [topic](#presentations-by-topic).
+
+Selected public presentations by [date](#presentations-by-date) or by [topic](#presentations-by-topic).
+
+**Michael B. Hawes**  
+Senior Statistician for Scientific Communication  
+Research and Methodology  
+U.S. Census Bureau  
+michael.b.hawes@census.gov
 
 ***
 
@@ -59,7 +66,6 @@ Go to: [2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2
 - [Artificial Intelligence](#artificial-intelligence)
 - [Differential Privacy](#differential-privacy)
 - [Official Statistics](#official-statistics)
-- [Statistical Product First](#statistical-product-first)
 
 
 ### 2020 Census Disclosure Avoidance System
